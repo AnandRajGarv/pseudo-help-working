@@ -5,7 +5,15 @@
 
 ### 🎥 Watch the Complete Demo
 
-[![Pseudo Help Demo Video](https://img.youtube.com/vi/49la6mt6Awo/0.jpg)](https://youtu.be/49la6mt6Awo)
+<div align="center">
+
+## 🎬 Watch the Complete Demo
+
+[![Watch the demo](https://img.shields.io/badge/▶️_CLICK_TO_WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000&fontSize=20)](https://youtu.be/49la6mt6Awo)
+
+### 🚀 Full Walkthrough: Codebase + Live Demo + Features
+
+</div>
 
 **Click the image above to watch the full demo**
 
