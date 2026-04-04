@@ -3,8 +3,6 @@
 
 <div align="center">
 
-### 🎥 Watch the Complete Demo
-
 <div align="center">
 
 ## 🎬 Watch the Complete Demo
