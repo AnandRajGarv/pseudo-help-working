@@ -15,8 +15,6 @@
 
 </div>
 
-**Click the image above to watch the full demo**
-
 *The video covers: Codebase walkthrough, Multi-Agent architecture, Live app demonstration, and Feature showcase*
 
 </div>
