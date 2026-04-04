@@ -1,3 +1,22 @@
+[![YouTube Demo](https://img.shields.io/badge/🎥_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/49la6mt6Awo)
+## 📺 Demo Video
+
+<div align="center">
+
+### 🎥 Watch the Complete Demo
+
+[![Pseudo Help Demo Video](https://img.youtube.com/vi/49la6mt6Awo/0.jpg)](https://youtu.be/49la6mt6Awo)
+
+**Click the image above to watch the full demo**
+
+*The video covers: Codebase walkthrough, Multi-Agent architecture, Live app demonstration, and Feature showcase*
+
+</div>
+
+---
+
+**Demo Video Link:** https://youtu.be/49la6mt6Awo
+
 # 🤖 Pseudo Help
 
 > **Autonomous Multi-Agent AI Study Assistant | Planner + Critic Architecture | Persistent Memory | 5 Specialized Tools**
