@@ -1,4 +1,12 @@
+# 🤖 Pseudo Help
 
+> **Autonomous Multi-Agent AI Study Assistant | Planner + Critic Architecture | Persistent Memory | 5 Specialized Tools**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://pseudo-help.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/AnandRajGarv/pseudo-help-working)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+An autonomous AI agent that creates personalized study plans using true multi-agent architecture with self-improvement capabilities.
 
 
 
