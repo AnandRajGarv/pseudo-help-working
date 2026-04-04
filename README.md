@@ -1,3 +1,7 @@
+
+
+
+
 # 🧠 Pseudo Help - Autonomous AI Study Assistant
 
 [![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-blue?logo=render)](https://pseudo-help.onrender.com)
